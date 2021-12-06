@@ -1,3 +1,3 @@
-# Real Estate App
+Next js Application
 
-![Real Estate](https://i.ibb.co/jTW4bFC/image.png)
+use 
